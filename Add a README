@@ -1,0 +1,21 @@
+# WooCommerce WhatsApp Direct Order Button
+
+A custom WordPress & WooCommerce plugin that adds a direct "Contact us on WhatsApp" button to single product pages, streamlining customer inquiries and boosting store conversions.
+
+## 🚀 Key Features
+- **Seamless WooCommerce Integration:** Hooks directly into the single product summary without modifying core theme files.
+- **Dynamic Product Context:** Automatically captures the product title and URL so the store owner immediately knows which item the customer is inquiring about.
+- **Clean & Lightweight:** Built with pure PHP and minimal CSS for zero impact on page load speed.
+- **Admin Settings:** Configurable WhatsApp phone number and custom button text directly from the WordPress dashboard.
+
+## 🛠️ Technologies Used
+- **Backend:** PHP, WordPress & WooCommerce Hooks (`woocommerce_single_product_summary`)
+- **Frontend:** HTML5, CSS3
+
+## 📦 Installation
+1. Upload the plugin folder to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the **Plugins** menu in WordPress.
+3. Configure your WhatsApp number in the plugin settings.
+
+## 👨‍💻 Author
+Developed by **Cezar** — WordPress Plugin & WooCommerce Developer.
